@@ -5,8 +5,8 @@
 I'm [ianriizky](https://github.com/ianriizky). I'm living in Bali and working as a Backend Developer for more than 3 years with PHP and Laravel as my main tool. There are some cool library I'm working on right now, such as:
 
 - [moslempray](https://github.com/ianriizky/moslempray) - API Manager to find pray time for Moslem developed for PHP and Laravel Framework.
-- [entity](https://github.com/ianriizky/entity) - Handle data transfer object pattern in magic way (*still WIP*).
 - [laravel-tweak](https://github.com/ianriizky/laravel-tweak) - Make your Laravel Framework become more powerful and IDE-readable.
+- [coding-interview](https://github.com/ianriizky/coding-interview) - Kumpulan source code dari pertanyaan atau tantangan yang sering muncul saat mengikuti proses coding interview
 
 Thanks for visiting!
 
