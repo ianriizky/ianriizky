@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm [ianriizky](https://github.com/ianriizky). I'm living in Yogyakarta and working as a Backend Developer for more than 3 years with PHP and Laravel as my main tool. There are some cool project and library I have, such as:
+I'm [ianriizky](https://github.com/ianriizky). I'm living in Yogyakarta and working as a Backend Developer since 2017 with PHP and Laravel as my main tool. There are some cool project and library I have, such as:
 
 - [coding-interview](https://github.com/ianriizky/coding-interview) - Kumpulan source code dari pertanyaan atau tantangan yang sering muncul saat mengikuti proses coding interview.
 - [bcadenpasar-chatbot](https://github.com/ianriizky/bcadenpasar-chatbot) - Sistem otomasi pesan menggunakan chatbot untuk menangani penukaran uang kecil dan baru secara online menggunakan PHP dan Laravel Framework (Studi Kasus: PT. Bank Central Asia Tbk. Cabang Denpasar).
