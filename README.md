@@ -2,11 +2,13 @@
 
 ### Hi there 👋
 
-I'm [ianriizky](https://github.com/ianriizky). I'm living in Bali and working as a Backend Developer for more than 3 years with PHP and Laravel as my main tool. There are some cool library I'm working on right now, such as:
+I'm [ianriizky](https://github.com/ianriizky). I'm living in Yogyakarta and working as a Backend Developer for more than 3 years with PHP and Laravel as my main tool. There are some cool project and library I have, such as:
 
-- [moslempray](https://github.com/ianriizky/moslempray) - API Manager to find pray time for Moslem developed for PHP and Laravel Framework.
-- [laravel-tweak](https://github.com/ianriizky/laravel-tweak) - Make your Laravel Framework become more powerful and IDE-readable.
-- [coding-interview](https://github.com/ianriizky/coding-interview) - Kumpulan source code dari pertanyaan atau tantangan yang sering muncul saat mengikuti proses coding interview
+- [coding-interview](https://github.com/ianriizky/coding-interview) - Kumpulan source code dari pertanyaan atau tantangan yang sering muncul saat mengikuti proses coding interview.
+- [bcadenpasar-chatbot](https://github.com/ianriizky/bcadenpasar-chatbot) - Sistem otomasi pesan menggunakan chatbot untuk menangani penukaran uang kecil dan baru secara online menggunakan PHP dan Laravel Framework (Studi Kasus: PT. Bank Central Asia Tbk. Cabang Denpasar).
+- and many more! Please check my pins below 👇
+
+I'm also sharing some of my developer experience and tutorial on [ngodingbang](https://www.instagram.com/ngodingbang).
 
 Thanks for visiting!
 
