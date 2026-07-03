@@ -34,4 +34,4 @@ I help startups and businesses build scalable SaaS platforms, robust APIs, and p
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianriizky&show_icons=true&theme=radical)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ianriizky&show_icons=true&theme=radical)
