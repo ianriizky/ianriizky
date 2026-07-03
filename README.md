@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Septianata Rizky Pratama
+# 👋 Hi, I’m Ian Rizky
 
 🚀 Fullstack Web Developer | SaaS MVP Specialist | API Integration Expert
 
